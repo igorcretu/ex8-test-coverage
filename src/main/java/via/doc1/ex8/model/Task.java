@@ -1,4 +1,4 @@
-package via.doc1.ex7.model;
+package via.doc1.ex8.model;
 
 import java.util.Objects;
 

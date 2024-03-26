@@ -1,7 +1,7 @@
-package via.doc1.ex7.services;
+package via.doc1.ex8.services;
 
 import org.springframework.stereotype.Service;
-import via.doc1.ex7.model.*;
+import via.doc1.ex8.model.*;
 
 import java.util.List;
 import java.util.ArrayList;
